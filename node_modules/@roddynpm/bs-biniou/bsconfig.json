@@ -1,0 +1,12 @@
+{
+    "name": "@roddynpm/bs-biniou",
+    "version": "0.0.1",
+    "sources": {
+        "dir": "src"
+    },
+    "bs-dependencies": [
+        "@roddynpm/bs-easy-format"
+    ],
+    "namespace": false,
+    "suffix": ".bs.js"
+}

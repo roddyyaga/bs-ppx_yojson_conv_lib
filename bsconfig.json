@@ -1,0 +1,16 @@
+{
+    "name": "@roddynpm/bs-ppx_yojson_conv_lib",
+    "sources": {
+        "dir": "ocaml",
+        "files": [
+            "ppx_yojson_conv_lib.ml",
+            "yojsonable_intf.ml",
+            "yojson_conv_error.ml",
+            "yojson_conv.ml",
+            "yojson_conv.mli"
+        ]
+    },
+    "bs-dependencies": [
+        "@roddynpm/bs-yojson"
+    ]
+}
