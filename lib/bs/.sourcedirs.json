@@ -1,1 +1,0 @@
-{ "dirs" : [ "ocaml" ] , "pkgs" : [ [ "@roddynpm/bs-yojson" , "/home/roddy/ppx_yojson_conv_lib/node_modules/@roddynpm/bs-yojson" ] , [ "bs-platform" , "/home/roddy/ppx_yojson_conv_lib/node_modules/bs-platform" ] ] , "generated" : [] }
