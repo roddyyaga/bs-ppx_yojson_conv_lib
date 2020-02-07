@@ -9,5 +9,6 @@ node_modules
 **/lib/ocaml
 *.cmj
 *.bs.js
+*.js
 *.mlast*
 *.mliast*
