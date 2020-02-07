@@ -3,11 +3,7 @@
     "sources": {
         "dir": "ocaml",
         "files": [
-            "ppx_yojson_conv_lib.ml",
-            "yojsonable_intf.ml",
-            "yojson_conv_error.ml",
-            "yojson_conv.ml",
-            "yojson_conv.mli"
+            "ppx_yojson_conv_lib.ml"
         ]
     },
     "bs-dependencies": [

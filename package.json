@@ -23,12 +23,12 @@
    },
    "homepage": "https://github.com/roddyyaga/bs-ppx_yojson_conv_lib#readme",
    "devDependencies": {
-      "bs-platform": "^6.0.0"
+      "bs-platform": "^6.0.0",
    },
    "peerDependencies": {
       "bs-platform": "^6.0.0"
    },
    "dependencies": {
-      "@roddynpm/bs-yojson": "^0.0.1"
+      "@roddynpm/bs-yojson": "^0.1.0"
    }
 }
