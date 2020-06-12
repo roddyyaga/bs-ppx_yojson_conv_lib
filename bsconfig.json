@@ -4,7 +4,7 @@
         "dir": "ocaml"
     },
     "bs-dependencies": [
-        "@roddynpm/bs-yojson"
+        "@roddynpm/bs-fojson"
     ],
     "namespace": false
 }
